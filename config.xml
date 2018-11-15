@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<midget xmlns 		= "http://www.w3.org/ns/widgets"
+		xmlns:gap 	= "http://phonegap.com/ns/1.0"
+		id 			= "com.gs.helloworld "
+		versionCode = "1"
+		version    	= "1.0.0">
+
+
+<!-- VersionCode is optional and android only -->
+
+	<name>Hello world Example </name>
+
+	<description>
+		an example for phonegap build docs
+	</description>
+
+	<author href="https://build.phonegap.com"
+		email="koonjuladesh@gmail.com">
+		Adesh Koonjul
+	</author>
+
+</widget>
